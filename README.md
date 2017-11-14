@@ -1,2 +1,2 @@
 # VAS-Log-Analyser
-uniper SBR (Radius ) Log Analysis
+Juniper Steel-Belted Radius (SBR)  Log Analysis
